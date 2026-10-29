@@ -1,0 +1,11 @@
+{
+  "name": "claude-status-band",
+  "owner": { "name": "kanine" },
+  "plugins": [
+    {
+      "name": "status-band",
+      "source": "./",
+      "description": "Band above the prompt in the Claude desktop app showing cwd, branch, model, context and 5h/7d quota pace."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "status-band",
+  "version": "0.1.0",
+  "description": "Band above the prompt showing cwd, branch, model, context and 5h/7d quota pace, mirroring the terminal status line.",
+  "types": "./types/index.d.ts"
+}
